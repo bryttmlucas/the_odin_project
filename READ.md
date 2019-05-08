@@ -1,0 +1,2 @@
+This project shows the deconstruction of an existing web page and then rebuiding that webpage. 
+I will be learning how to properly format a webpage, pull pictures from other webpages, and properly use css styles within the webpage.

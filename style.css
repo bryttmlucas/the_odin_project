@@ -1,12 +1,14 @@
 
-
-.logo{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top:200px;
+.logo {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20%;
 }
 
 .text-box{
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
 }
